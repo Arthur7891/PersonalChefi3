@@ -5,6 +5,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="branco.png" alt="branco"
 
 
 
@@ -12,8 +13,14 @@
 ### Lista de tarefas
 Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] Pré-requisitos
-    - [X] Instalar o Python
-    - [X] Instalar Visual Studio Code
+    - [] Instalar o Python
+    - [] Instalar Visual Studio Code
+    - [] Criar o projeto PersonalCheff
+    - [] Alterar o Idioma
+    - [] Criar App de receita
+    - [] Registar o App
+    
+      
 
 ## 📝 Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
