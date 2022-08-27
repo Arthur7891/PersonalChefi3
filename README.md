@@ -20,7 +20,13 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
     - [] Criar App de receita
     - [] Registar o App
     - [] Criar ambiente virtual
-    
+
+```
+Utilizar o CMD
+python -m venv .\venv\
+venv\Scrpts\activate
+
+```  
       
 
 ## 📝 Licença
