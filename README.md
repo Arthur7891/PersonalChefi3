@@ -29,6 +29,10 @@ python -m venv .\venv\
 venv\Scrpts\activate  
 
 ```
+```
+python -m pip install django==3.2
+
+```
       
 
 ## 📝 Licença
