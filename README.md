@@ -19,6 +19,7 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
     - [] Alterar o Idioma
     - [] Criar App de receita
     - [] Registar o App
+    - [] Criar ambiente virtual
     
       
 
